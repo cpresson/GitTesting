@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="./releases/abbott-smith.xsl"?>
 <TEI xmlns="http://www.crosswire.org/2013/TEIOSIS/namespace"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crosswire.org/2013/TEIOSIS/namespace
@@ -7,7 +7,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http:/
  <teiHeader>
  <fileDesc>
   <titleStmt>
-   <title>A MANUAL GREEK LEXICON OF THE NEW TESTAMENT</title>
+   <title>A. M. MANUAL GREEK LEXICON OF THE NEW TESTAMENT</title>
    <author>G. ABBOTT-SMITH</author>
   </titleStmt>
   <editionStmt>

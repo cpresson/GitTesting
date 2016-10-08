@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./releases/abbott-smith.xsl"?>
+<TEI xmlns="http://www.crosswire.org/2013/TEIOSIS/namespace"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crosswire.org/2013/TEIOSIS/namespace
+        http://www.crosswire.org/OSIS/teiP5osis.2.5.0.xsd">
+
+ <teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>A MANUAL GREEK LEXICON OF THE NEW TESTAMENT</title>
+   <author>G. ABBOTT-SMITH</author>
+  </titleStmt>
+  <editionStmt>
+   <edition>1st</edition>
+  </editionStmt>
+  <publicationStmt>
+   <date>1922</date>
+  </publicationStmt>
+  <sourceDesc>
+   <p>http://archive.org/details/manualgreeklexic00abborich</p>
+  </sourceDesc>
+ </fileDesc>
+ <encodingDesc>
+   <p>Contributors to this project include:</p>
+   <p>Daniel C. Owens</p>
+   <p>Dardo Sordi</p>
+   <p>Chuck Bearden</p>
+   <p>Jonathan Robie</p>
+   <p>Patrick Durusau</p>
+   <p>Stephen Hughes (aka Στέφανος)</p>
+ </encodingDesc>
+</teiHeader>
+
+ <text>
+ <front>
+ <pb n="iii" /> <!-- typed="DCO" checked="DCO" -->
+
+ <titlePage>
+<docTitle><titlePart type="main">A<lb/>  MANUAL <lb/> GREEK LEXICON<lb/> OF THE <lb/>NEW TESTAMENT</titlePart></docTitle>
+ <byline>BY <lb/><docAuthor>G. ABBOTT-SMITH, D.D., D.C.L.</docAuthor><lb/>PROFESSOR OF NEW TESTAMENT LITERATURE IN THE MONTREAL DIOCESAN<lb/> THEOLOGICAL COLLEGE AND ASSISTANT PROFESSOR IN THE<lb/> ORIENTAL DEPARTMENT IN MCGILL UNIVERSITY</byline>
+ <docImprint>
+  <name type="place">NEW YORK</name><lb/><name>CHARLES SCRIBNER'S SONS</name><lb/>
+  <date>1922</date>
+  
+<pb n="iv" /> <!-- typed="DCO" checked="DCO" -->
+<lb />Printed in the United States of America
+ </docImprint>
+ </titlePage>
+
+ <pb n="v" /> <!-- typed="DCO" checked="DCO" -->
+
+ <div type='dedication'>
+ <p>TO MY WIFE</p>
+ </div>
+
+ <pb n="vi" /> <!-- typed="DCO" checked="DCO" -->
+
+ <pb n="vii" /> <!-- typed="DCO" checked="DCO" -->
+
+ <div type="preface">
+ <head type="heading1">PREFACE</head>
+
+ <p>The need of a new Greek-English Lexicon of the New Testament will hardly be questioned. Thayer's monumental work, deservedly the standard for more than thirty years past, and, supplemented by later literature, still likely to remain a standard of reference for some time to come, was rather too bulky to serve as a table companion to the New Testament for the average man. A smaller book, which would lend itself more readily to constant reference, has been a real and growing want for the student.</p>
+
+ <p>This want has been enhanced by the progress of lexical study during the last quarter century. The study of vernacular texts, which in recent years received a new impetus through the discovery of vast numbers of non-literary papyri, chiefly in Egypt, has removed all doubt as to the category to which the language of the New Testament belongs. It is now abundantly clear that the diction of the apostolic writers is not a peculiar isolated idiom, characteristic of Jewish Hellenists, but simply the common speech of the Greek-speaking world at the time when the New Testament books were written.</p>
+
+ <p>While the statement just made has come to be a commonplace, it has not been so for long. There has arisen, therefore, the need not only of the collection and arrangement in convenient form (a need which is now being supplied for the advanced scholar in Moulton and Milligan's <emph>Vocabulary of the Greek Testament</emph>) of the results of pioneer study in the papyri, but also of a systematic revision, in the light of recent research, of many of the views regarding the diction and vocabulary of the New Testament which were commonly accepted thirty or even twenty years ago.</p>
+
+ <p>The considerations therefore —so well set forth by Dr. Moulton in his <emph>Prolegomena</emph>— which call for an entirely new grammar of the New Testament, apply also to the work of the Lexicographer. And the materials for his work —still <pb n="viii" /> <!-- typed="DCO" checked="DCO" -->steadily accumulating— have been liberally furnished by the special studies of Deissmann and Thumb in Germany and Moulton and Milligan in Great Britain and have also found their way into the more recent commentaries.</p>
+
+ <p>The new impulse given to the study of the Septuagint by the publication of the <emph>Oxford Concordance</emph> by Hatch and Redpath, the Cambridge Manual Edition of the Septuagint and its accompanying Introduction by Dr. Swete, together with  the <emph>Grammar</emph> of Mr. Thackeray, has also had its influence on New Testament studies. While Dr. Abbott's caution<note n="1" anchored="true"><emph>Essays</emph>, 67ff.</note> as to the possibility of exaggerating the influence of the Septuagint still holds good, the evidence of the papyri has brought about a growing sense of its value to the student of the New Testament. More reference therefore has been made, it is believed, in this Lexicon to the usage of the Septuagint than in any previous work of the same kind, so that even where there may not appear to be any special significance in the Old Testament usage with respect to a particular word, the student will always have an idea of the extent and character of the use which was made of it in that version which was the most familiar form of the Old Testament to the writers of the New.</p>
+
+ <p>The books mentioned in the list which follows are, out of a larger number to which I would register here a general acknowledgement of indebtedness, those which appeared to be, on the whole, the more accessible and useful to the average reader. Among the Lexicons, an almost equal debt is owed to Liddell and Scott and to Thayer. The classification of meanings in the latter, a characteristic excellence, often defies improvement, while Preuschen, though on the whole adding little to the work of his predecessors, is often helpful in this same particular. Not a few suggestions of fresh treatment have come from Fr. Zorell, S.J., whose scholarly work is quite modern and remarkably free from the ecclesiastical bias which one might have expected to find in it.</p>
+
+ <p>Of the commentaries, besides those available to Thayer, the most helpful for lexical purposes have been those of Hort, Swete and Mayor in Macmillan's Series, also the International Critical Commentaries, especially the more recent issues. Some of Bishop Lightfoot's best lexical work is to be found in his posthumous <emph>Notes on Epistles of St. Paul</emph>, while Dr. Field's <emph>Notes on the Translation of the New Testament</emph>, contain a wealth of learning and sound judgment <pb n="ix" /> <!-- typed="DCO" checked="DCO" -->such as would be hard to parallel within the limits of a single  volume.</p>
+
+ <p>On points of grammar, references are mainly made to Dr. Moulton's <emph>Prolegomena</emph> and the English Translation of Blass, as the most recent and convenient of first-rate authorities.</p>
+
+ <p>A brief treatment is given of the more important synonyms, in the belief that while classical distinctions cannot always be pressed in late and colloquial usage, it is an advantage to know something of the distinctive features of synonymous words as traceable in their etymology and literary history.</p>
+
+ <p>For the text of the New Testament the standard adopted is that of Moulton and Geden's <emph>Concordance</emph>,<note anchored="true" n="1"><emph>A Concordance to the Greek Testament</emph>, by Rev. W. F. Moulton, M.A., D.D., and Rev. A. S. Geden, M.A. Second Edition. T. &amp; T. Clark, 1899.</note> which, as the latest and best work of its kind, is likely to remain the recognised authority for many years to come. The Greek text followed therefore is that of Westcott and Hort, with which are compared the texts of the Eighth Edition of Tischendorf and of the English Revisers, the marginal readings of each being included. From the <emph>Textus Receptus</emph> as such, no reading which modern editors have rejected is as a rule recorded, except in cases where a word would otherwise be dropped from the vocabulary of the New Testament. Sometimes, also, reference is made to a reading of the <emph>Receptus</emph> to which some particular interest is attached.</p>
+
+ <p>The asterisks and daggers in the margin follow, with the kind permission of the publishers and Mr. Geden, the notation of the <emph>Concordance</emph>. There is, however, the one difference, that whereas in Moulton and Geden the time limit marked by the dagger is the beginning of the Christian era, it seemed better for the purpose of the Lexicon to include in the category of "late Greek" all words found only in Greek writers after the time of Aristotle.<note anchored="true" n="2">See below, p. xvi.</note></p>
+
+ <p>It remains to express in general terms my grateful acknowledgement to colleagues and friends in McGill University with its affiliated Theological Colleges and in my own Alma Mater, the University of Bishop's College, Lennoxville, as well as to many English friends, in Cambridge and elsewhere, who have given me valued advice and encouragement.</p>
+
+ <p>All these will pardon me if I single out for special mention the one name of Dr. J. H. Moulton, the genial master-crafts-<pb n="x" /> <!-- typed="DCO" checked="DCO" -->man of that science to which I have sought in a humble way to contribute what I could. At the beginning of my undertaking he took me in, a stranger, and gave me ungrudgingly of his counsel and direction, and also my first introduction to the publishers through whom the appearance of the work under the best possible auspices was assured.</p>
+
+ <p>To the manifold assistance I have had from fellow-workers, both by word of mouth and through the printed page I would fain attribute most of the value which this modest effort may possess. For its deficiencies I am alone responsible, and I can only hope that in spite of them this book may sustain the note sounded in the last word in the alphabetical order of the New Testament Vocabulary —<foreign xml:lang="grc">ὠφέλιμος</foreign>— and may serve in a small way to the more faithful and intelligent study of the Book of the New Covenant of our Lord and Saviour in the language in which it was written.</p>
+
+ <p>The foregoing paragraphs were written early in 1917, when, with the last sheets of the Lexicon, they were sent overseas for publication. The manuscript has thus been inaccessible for revision, whence the absence of any reference to much valuable material that has appeared, both in books and in periodicals, during the last four years, including the second volume of the <emph>Grammar</emph> of Dr. Moulton, whose tragic death as a victim of the ruthless warfare of the submarines was reported a few days after the earlier part of this Preface was written. The student is recommended to supplement the grammatical references in the body of the Lexicon by consulting the Index to Vol. II. of Dr. Moulton's <emph>Grammar</emph>.</p>
+
+ <p>I take this opportunity of adding to the acknowledgements already made my thanks to Professors A. R. Gordon and S. B. Slack of McGill University and to the Rev. R. K. Naylor, sometime classical tutor at McGill, for their kindness in proof-reading, to the publishers for their generous enterprise at a time of unprecedented difficulty in the production of books, and to the compositors and readers of the Aberdeen University Press for their painstaking and accurate performance of a difficult task.</p>
+
+ <p>G. ABBOTT-SMITH.</p>
+ <p>MONTREAL</p>
+ <p>September, 1921.</p>
+  <pb n="xi" /> <!-- typed="DCO" checked="DCO" -->
+ </div>
+ <div type="section">
+ <head type="heading1">LIST OF ABBREVIATIONS</head>
+
+ <p>
+ <table>
+ <head type="heading2">I. GENERAL.</head>
+ <row>
+  <cell>absol.</cell>
+  <cell>= absolute.</cell>
+ </row>
+ <row>
+  <cell>acc.</cell>
+  <cell>= accusative.</cell>
+ </row>
+ <row>
+  <cell>act.</cell>
+  <cell>= active.</cell>
+ </row>
+ <row>
+  <cell>ad fin.</cell>
+  <cell>= ad finem.</cell>
+ </row>
+ <row>
+  <cell>adj.</cell>
+  <cell>= adjective.</cell>
+ </row>
+ <row>
+  <cell>adv.</cell>
+  <cell>= adverb.</cell>
+ </row>
+ <row>
+  <cell>al.</cell>
+  <cell>= alibi (<emph>elsewhere</emph>).</cell>
+ </row>
+ <row>
+  <cell>aor.</cell>
+  <cell>= aorist.</cell>
+ </row>
+ <row>
+  <cell>Apocr.</cell>
+  <cell>= Apocrypha.</cell>
+ </row>
+ <row>
+  <cell>App.</cell>
+  <cell>= Appendix.</cell>
+ </row>
+ <row>
+  <cell>Aram.</cell>
+  <cell>= Aramaic.</cell>
+ </row>
+ <row>
+  <cell>Att.</cell>
+  <cell>= Attic.</cell>
+ </row>
+ <row>
+  <cell>bibl.</cell>
+  <cell>= biblical.</cell>
+ </row>
+ <row>
+  <cell>bis</cell>
+  <cell>= twice.</cell>
+ </row>
+ <row>
+  <cell>c.</cell>
+  <cell>= cum (<emph>with</emph>).</cell>
+ </row>
+ <row>
+  <cell>cf.</cell>
+  <cell>= confer (<emph>compare</emph>).</cell>
+ </row>
+ <row>
+  <cell>cl.</cell>
+  <cell>= classics, classical.</cell>
+ </row>
+ <row>
+  <cell>cogn.</cell>
+  <cell>= cognate.</cell>
+ </row>
+ <row>
+  <cell>compar.</cell>
+  <cell>= comparative.</cell>
+ </row>
+ <row>
+  <cell>contr.</cell>
+  <cell>= contracted.</cell>
+ </row>
+ <row>
+  <cell>dat.</cell>
+  <cell>= dative.</cell>
+ </row>
+ <row>
+  <cell>e.g.</cell>
+  <cell>= exempli gratia (<emph>for instance</emph>).</cell>
+ </row>
+ <row>
+  <cell>eccl.</cell>
+  <cell>= ecclesiastical.</cell>
+ </row>
+ <row>
+  <cell>esp.</cell>
+  <cell>= especially.</cell>
+ </row>
+ <row>
+  <cell>ex.</cell>
+  <cell>= example.</cell>
+ </row>
+ <row>
+  <cell>exc.</cell>
+  <cell>= except.</cell>
+ </row>
+ <row>
+  <cell>f.</cell>
+  <cell>= and following (verse).</cell>
+ </row>
+ <row>
+  <cell>ff.</cell>
+  <cell>= and following (verses).</cell>
+ </row>
+ <row>
+  <cell>fig.</cell>
+  <cell>= figurative.</cell>
+ </row>
+ <row>
+  <cell>freq.</cell>
+  <cell>= frequent.</cell>
+ </row>
+ <row>
+  <cell>fut.</cell>
+  <cell>= future.</cell>
+ </row>
+ <row>
+  <cell>gen.</cell>
+  <cell>= genitive.</cell>
+ </row>
+ <row>
+  <cell>Gk.</cell>
+  <cell>= Greek.</cell>
+ </row>
+ <row>
+  <cell>Heb.</cell>
+  <cell>= Hebrew.</cell>
+ </row>
+ <row>
+  <cell>i.e.</cell>
+  <cell>= id est.</cell>
+ </row>
+ <row>
+  <cell>ib.</cell>
+  <cell>= in the same place.</cell>
+ </row>
+ <row>
+  <cell>id.</cell>
+  <cell>= the same.</cell>
+ </row>
+ <row>
+  <cell>impers.</cell>
+  <cell>= impersonal.</cell>
+ </row>
+ <row>
+  <cell>impf.</cell>
+  <cell>= imperfect.</cell>
+ </row>
+ <row>
+  <cell>impv.</cell>
+  <cell>= imperative.</cell>
+ </row>
+ <row>
+  <cell>in l.</cell>
+  <cell>= in loco.</cell>
+ </row>
+ <row>
+  <cell>indic.</cell>
+  <cell>= indicative.</cell>
+ </row>
+ <row>
+  <cell>inf.</cell>
+  <cell>= infinitive.</cell>
+ </row>
+ <row>
+  <cell>infr.</cell>
+  <cell>= infra.</cell>
+ </row>
+ <row>
+  <cell>Ion.</cell>
+  <cell>= Ionic.</cell>
+ </row>
+ <row>
+  <cell>l.c.</cell>
+  <cell>= loco citato.</cell>
+ </row>
+ <row>
+  <cell>m.</cell>
+  <cell>= masculine.</cell>
+ </row>
+ <row>
+  <cell>metaph.</cell>
+  <cell>= metaphorically.</cell>
+ </row>
+ <row>
+  <cell>meton.</cell>
+  <cell>= metonymy.</cell>
+ </row>
+ <row>
+  <cell>MGr.</cell>
+  <cell>= Modern Greek.</cell>
+ </row>
+ <row>
+  <cell>n.</cell>
+  <cell>= note, neuter.</cell>
+ </row>
+ <row>
+  <cell>neg.</cell>
+  <cell>= negative.</cell>
+ </row>
+ <row>
+  <cell>nom.</cell>
+  <cell>= nominative.</cell>
+ </row>
+ <row>
+  <cell>om.</cell>
+  <cell>= omit, omits.</cell>
+ </row>
+ <row>
+  <cell>opp.</cell>
+  <cell>= opposed to.</cell>
+ </row>
+ <row>
+  <cell>optat.</cell>
+  <cell>= optative.</cell>
+ </row>
+ <row>
+  <cell>pass.</cell>
+  <cell>= passive.</cell>
+ </row>
+ <row>
+  <cell>pers.</cell>
+  <cell>= person.</cell>
+ </row>
+ <row>
+  <cell>pf.</cell>
+  <cell>= perfect.</cell>
+ </row>
+ <row>
+  <cell>plpf.</cell>
+  <cell>= pluperfect.</cell>
+ </row>
+ <row>
+  <cell>prep.</cell>
+  <cell>= preposition.</cell>
+ </row>
+ <row>
+  <cell>prop.</cell>
+  <cell>= properly.</cell>
+ </row>
+ <row>
+  <cell>ptcp.</cell>
+  <cell>= participle.</cell>
+ </row>
+ <row>
+  <cell>q.v.</cell>
+  <cell>= quod vide.</cell>
+ </row>
+ <row>
+  <cell>rei</cell>
+  <cell>= of the thing.</cell>
+ </row>
+ <row>
+  <cell>s.</cell>
+  <cell>= sub.</cell>
+ </row>
+ <row>
+  <cell>s.v.</cell>
+  <cell>= sub voce.</cell>
+ </row>
+ <row>
+  <cell>se.</cell>
+  <cell>= scilicet (<emph>that is</emph>).</cell>
+ </row>
+ <row>
+  <cell>seq.</cell>
+  <cell>= sequente (<emph>followed by</emph>).</cell>
+ </row>
+ <row>
+  <cell>subjc.</cell>
+  <cell>= subjunctive.</cell>
+ </row>
+ <row>
+  <cell>subst.</cell>
+  <cell>= substantive.</cell>
+ </row>
+ <row>
+  <cell>superl.</cell>
+  <cell>= superlative.</cell>
+ </row>
+ <row>
+  <cell>supr.</cell>
+  <cell>= supra.</cell>
+ </row>
+ <row>
+  <cell>syn.</cell>
+  <cell>= synonym.</cell>
+ </row>
+ <row>
+  <cell>Targ.</cell>
+  <cell>= Targum.</cell>
+ </row>
+ <row>
+  <cell>V.</cell>
+  <cell>= vide.</cell>
+ </row>
+ <row>
+  <cell>vb.</cell>
+  <cell>= verb.</cell>
+ </row>
+ <row>
+  <cell>v.l.</cell>
+  <cell>= variant reading.</cell>
+ </row>
+ <row>
+  <cell>v.s.</cell>
+  <cell>= vide sub.</cell>
+ </row>
+ </table>
+ </p>
+
+ <p>= Equivalent to, equals.</p>
+ <p>&lt; Derived from or related to.</p>
+
+  <pb n="xii" /> <!-- typed="DCO" checked="DCO" -->
+
+ <p>
+ <table>
+ <head type="heading2">II. BIBLICAL.</head>
+ <head type="heading3">(a) BOOKS</head>
+ <head type="heading4">Septuagint.</head>
+ <row>
+  <cell>Ge</cell>
+  <cell>= Genesis.</cell>
+ </row>
+ <row>
+  <cell>Ex</cell>
+  <cell>= Exodus.</cell>
+ </row>
+ <row>
+  <cell>Le</cell>
+  <cell>= Leviticus.</cell>
+ </row>
+ <row>
+  <cell>Nu</cell>
+  <cell>= Numbers.</cell>
+ </row>
+ <row>
+  <cell>De</cell>
+  <cell>= Deuteronomy.</cell>
+ </row>
+ <row>
+  <cell>Jos</cell>
+  <cell>= Joshua.</cell>
+ </row>
+ <row>
+  <cell>Jg</cell>
+  <cell>= Judges.</cell>
+ </row>
+ <row>
+  <cell>Ru</cell>
+  <cell>= Ruth.</cell>
+ </row>
+ <row>
+  <cell>I, II Ki</cell>
+  <cell>= I, II Kings (E.V., Samuel).</cell>
+ </row>
+ <row>
+  <cell>III, IV Ki</cell>
+  <cell>= III, IV Kings (E.V., I, II Kings).</cell>
+ </row>
+ <row>
+  <cell>I, II Ch</cell>
+  <cell>= I, II Chronicles.</cell>
+ </row>
+ <row>
+  <cell>II Es</cell>
+  <cell>= II Esdras (E.V., Ezra).</cell>
+ </row>
+ <row>
+  <cell>Ne</cell>
+  <cell>= Nehemiah.</cell>
+ </row>
+ <row>
+  <cell>Es</cell>
+  <cell>= Esther.</cell>
+ </row>
+ <row>
+  <cell>Jb</cell>
+  <cell>= Job.</cell>
+ </row>
+ <row>
+  <cell>Ps</cell>
+  <cell>= Psalms.</cell>
+ </row>
+ <row>
+  <cell>Pr</cell>
+  <cell>= Proverbs.</cell>
+ </row>
+ <row>
+  <cell>Ec</cell>
+  <cell>= Ecclesiastes.</cell>
+ </row>
+ <row>
+  <cell>Ca</cell>
+  <cell>= Canticles.</cell>
+ </row>
+ <row>
+  <cell>Is</cell>
+  <cell>= Isaiah.</cell>
+ </row>
+ <row>
+  <cell>Je</cell>
+  <cell>= Jeremiah.</cell>
+ </row>
+ <row>
+  <cell>La</cell>
+  <cell>= Lamentations.</cell>
+ </row>
+ <row>
+  <cell>Ez</cell>
+  <cell>= Ezekiel.</cell>
+ </row>
+ <row>
+  <cell>Da</cell>
+  <cell>= Daniel.</cell>
+ </row>
+ <row>
+  <cell>Ho</cell>
+  <cell>= Hosea.</cell>
+ </row>
+ <row>
+  <cell>Jl</cell>
+  <cell>= Joel.</cell>
+ </row>
+ <row>
+  <cell>Am</cell>
+  <cell>= Amos.</cell>
+ </row>
+ <row>
+  <cell>Ob</cell>
+  <cell>= Obadiah.</cell>
+ </row>
+ <row>
+  <cell>Jh</cell>
+  <cell>= Jonah.</cell>
+ </row>
+ <row>
+  <cell>Mi</cell>
+  <cell>= Micah.</cell>
+ </row>
+ <row>
+  <cell>Na</cell>
+  <cell>= Nahum.</cell>
+ </row>
+ <row>
+  <cell>Hb</cell>
+  <cell>= Habakkuk.</cell>
+ </row>
+ <row>
+  <cell>Ze</cell>
+  <cell>= Zephaniah.</cell>
+ </row>
+ <row>
+  <cell>Hg</cell>
+  <cell>= Haggai.</cell>
+ </row>
+ <row>
+  <cell>Za</cell>
+  <cell>= Zachariah.</cell>
+ </row>
+ <row>
+  <cell>Ma</cell>
+  <cell>= Malachi.</cell>
+ </row>
+ <row>
+  <cell>I Es</cell>
+  <cell>= I Esdras.</cell>
+ </row>
+ <row>
+  <cell>To</cell>
+  <cell>= Tobit.</cell>
+ </row>
+ <row>
+  <cell>Jth</cell>
+  <cell>= Judith.</cell>
+ </row>
+ <row>
+  <cell>Wi</cell>
+  <cell>= Wisdom.</cell>
+ </row>
+ <row>
+  <cell>Si</cell>
+  <cell>= Sirach.</cell>
+ </row>
+ <row>
+  <cell>Ba</cell>
+  <cell>= Baruch.</cell>
+ </row>
+ <row>
+  <cell>Da Su</cell>
+  <cell>= Susannah.</cell>
+ </row>
+ <row>
+  <cell>Da Bel</cell>
+  <cell>= Bel and the Dragon</cell>
+ </row>
+ <row>
+  <cell>Pr Ma</cell>
+  <cell>= Prayer of Manasseh</cell>
+ </row>
+ <row>
+  <cell>I-IV Mac</cell>
+  <cell>= I-IV Maccabees.</cell>
+ </row>
+ </table>
+ </p>
+
+ <p>
+ <table>
+ <head type="heading4">New Testament.</head>
+ <row>
+  <cell>Mt</cell>
+  <cell>= St. Matthew.</cell>
+ </row>
+ <row>
+  <cell>Mk</cell>
+  <cell>= St. Mark.</cell>
+ </row>
+ <row>
+  <cell>Lk</cell>
+  <cell>= St. Luke.</cell>
+ </row>
+ <row>
+  <cell>Jo</cell>
+  <cell>= St. John.</cell>
+ </row>
+ <row>
+  <cell>Ac</cell>
+  <cell>= Acts.</cell>
+ </row>
+ <row>
+  <cell>Ro</cell>
+  <cell>= Romans.</cell>
+ </row>
+ <row>
+  <cell>I, II Co</cell>
+  <cell>= I, II Corinthians</cell>
+ </row>
+ <row>
+  <cell>Ga</cell>
+  <cell>= Galatians.</cell>
+ </row>
+ <row>
+  <cell>Eph</cell>
+  <cell>= Ephesians.</cell>
+ </row>
+ <row>
+  <cell>Phl</cell>
+  <cell>= Philippians.</cell>
+ </row>
+ <row>
+  <cell>Col</cell>
+  <cell>= Colossians.</cell>
+ </row>
+ <row>
+  <cell>I, II Th</cell>
+  <cell>= I, II Thessalonians.</cell>
+ </row>
+ <row>
+  <cell>I, II Ti</cell>
+  <cell>= I, II Timothy.</cell>
+ </row>
+ <row>
+  <cell>Tit</cell>
+  <cell>= Titus.</cell>
+ </row>
+ <row>
+  <cell>Phm</cell>
+  <cell>= Philemon.</cell>
+ </row>
+ <row>
+  <cell>He</cell>
+  <cell>= Hebrews.</cell>
+ </row>
+ <row>
+  <cell>Ja</cell>
+  <cell>= James.</cell>
+ </row>
+ <row>
+  <cell>I, II Pe</cell>
+  <cell>= I, II Peter.</cell>
+ </row>
+ <row>
+  <cell>I-III Jo</cell>
+  <cell>= I-III John.</cell>
+ </row>
+ <row>
+  <cell>Ju</cell>
+  <cell>= Jude.</cell>
+ </row>
+ <row>
+  <cell>Re</cell>
+  <cell>= Revelation.</cell>
+ </row>
+ </table>
+ </p>
+
+ <p>
+ <table>
+ <head type="heading3">(b) VERSIONS AND EDITIONS.</head>
+ <row>
+  <cell>Al.</cell>
+  <cell>= anon, version quoted by Origen.</cell>
+ </row>
+ <row>
+  <cell>Aq.</cell>
+  <cell>= Aquila.</cell>
+ </row>
+ <row>
+  <cell>AV</cell>
+  <cell>= Authorized version.</cell>
+ </row>
+ <row>
+  <cell>B</cell>
+  <cell>= Beza.</cell>
+ </row>
+ <row>
+  <cell>E</cell>
+  <cell>= Elzevir.</cell>
+ </row>
+ <row>
+  <cell>EV</cell>
+  <cell>= English version (A.V. and R.V.).</cell>
+ </row>
+ <row>
+  <cell>Gr. Ven.</cell>
+  <cell>= Graecus Venetus.</cell>
+ </row>
+ <row>
+  <cell>L</cell>
+  <cell>= Lachmann.</cell>
+ </row>
+ <row>
+  <cell>LXX</cell>
+  <cell>= Septuagint.</cell>
+ </row>
+ <row>
+  <cell>R (in LXX refs.)</cell>
+  <cell>= Sixtine Ed. of LXX (1587).</cell>
+ </row>
+ <row>
+  <cell>Rec.</cell>
+  <cell>= Received Text.</cell>
+ </row>
+ <row>
+  <cell>RV</cell>
+  <cell>= Revised Veision.</cell>
+ </row>
+ <row>
+  <cell>R, txt., mg.</cell>
+  <cell>= R.V. text, margin.</cell>
+ </row>
+ <row>
+  <cell>Sm.</cell>
+  <cell>= Symmachus.</cell>
+ </row>
+ <row>
+  <cell>T</cell>
+  <cell>= Tischendorf.</cell>
+ </row>
+ <row>
+  <cell>Th.</cell>
+  <cell>= Theodotion.</cell>
+ </row>
+ <row>
+  <cell>Tr.</cell>
+  <cell>= Tregelles.</cell>
+ </row>
+ <row>
+  <cell>Vg.</cell>
+  <cell>= Vulgate.</cell>
+ </row>
+ <row>
+  <cell>WH</cell>
+  <cell>= Westcott and Hort.</cell>
+ </row>
+ </table>
+ </p>
+
+ <pb n="xiii" /> <!-- typed="DCO" checked="DCO" -->
+
+
+ <p>
+ <table>
+ <head type="heading2">III. ANCIENT WITNESSES</head>
+ <head type="heading3"> (i/, ii/, etc. = 1st, 2nd century, etc.)</head>
+ <row>
+  <cell>Ael.</cell>
+  <cell>= Aelian, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Æsch.</cell>
+  <cell>= Æschylus, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Æschin.</cell>
+  <cell>= Æschines, iv/B.C.</cell>
+ </row>
+ <row>
+  <cell>Anth.</cell>
+  <cell>= Anthology.</cell>
+ </row>
+ <row>
+  <cell>Antonin.</cell>
+  <cell>= M. Aurel. Antoninus, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Apoll. Rhod.</cell>
+  <cell>= Apollonius Rhodius, ii/B.C.</cell>
+ </row>
+ <row>
+  <cell>Arist.</cell>
+  <cell>= Aristotle, iv/B.C.</cell>
+ </row>
+ <row>
+  <cell>Aristoph.</cell>
+  <cell>= Aristophanes, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Ath.</cell>
+  <cell>= Athanasius, iv/A.D.</cell>
+ </row>
+ <row>
+  <cell>CIG</cell>
+  <cell>= Corpus Inscriptionum Græcarum.</cell>
+ </row>
+ <row>
+  <cell>Dio Cass.</cell>
+  <cell>= Dio Cassius, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Diod.</cell>
+  <cell>= Diodorus Siculus, i/B.C.</cell>
+ </row>
+ <row>
+  <cell>Diog. Laert.</cell>
+  <cell>= Diogenes Laertius, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Dion. H.</cell>
+  <cell>= Dionysius of Halicarnassus, i/B.C.</cell>
+ </row>
+ <row>
+  <cell>Diosc.</cell>
+  <cell>= Dioscorides, i-ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Eur.</cell>
+  <cell>= Euripides, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Eustath.</cell>
+  <cell>= Eustathius, xii/A.D.</cell>
+ </row>
+ <row>
+  <cell>FlJ</cell>
+  <cell>= Flavius Josephus, i/A.D.</cell>
+ </row>
+ <row>
+  <cell>Greg. Naz.</cell>
+  <cell>= Gregory of Nazianzus, iv/A.D.</cell>
+ </row>
+ <row>
+  <cell>Hdt.</cell>
+  <cell>= Herodotus, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Heliod.</cell>
+  <cell>= Heliodorus, iv/A.D.</cell>
+ </row>
+ <row>
+  <cell>Herm.</cell>
+  <cell>= Hermas, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Hes.</cell>
+  <cell>= Hesiod, ix/B.C.?</cell>
+ </row>
+ <row>
+  <cell>Hipp.</cell>
+  <cell>= Hippocrates, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Hom.</cell>
+  <cell>= Homer, ix/B.C.?</cell>
+ </row>
+ <row>
+  <cell>Inscr.</cell>
+  <cell>= Inscriptions.</cell>
+ </row>
+ <row>
+  <cell>Luc.</cell>
+  <cell>= Lucian, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Lys.</cell>
+  <cell>= Lysias, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Menand.</cell>
+  <cell>= Menander, iv/B.C.</cell>
+ </row>
+ <row>
+  <cell><foreign xml:lang="grc">π.</foreign></cell>
+  <cell>= Papyri.</cell>
+ </row>
+ <row>
+  <cell>Paus.</cell>
+  <cell>= Pausanias, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Phalar.</cell>
+  <cell>= Phalaris, Spurius Epp.?</cell>
+ </row>
+ <row>
+  <cell>Philo.</cell>
+  <cell>= Philo Judæus, i/A.D.</cell>
+ </row>
+ <row>
+  <cell>Pind.</cell>
+  <cell>= Pindar, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Plat.</cell>
+  <cell>= Plato, v-iv/B.C.</cell>
+ </row>
+ <row>
+  <cell>Plut.</cell>
+  <cell>= Plutarch, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Polyb.</cell>
+  <cell>= Polybius, ii/B.C.</cell>
+ </row>
+ <row>
+  <cell>Socr., <emph>HE</emph></cell>
+  <cell>= Socrates, Hist. Eccl., v/A.D.</cell>
+ </row>
+ <row>
+  <cell>Soph.</cell>
+  <cell>= Sophocles, v/B.O.</cell>
+ </row>
+ <row>
+  <cell>Strab.</cell>
+  <cell>= Strabo, i/B.C.</cell>
+ </row>
+ <row>
+  <cell>Test. Zeb.</cell>
+  <cell>= Testimony of Zebedee, ii/A.D.</cell>
+ </row>
+ <row>
+  <cell>Theogn.</cell>
+  <cell>= Theognis, vi/B.C.</cell>
+ </row>
+ <row>
+  <cell>Theophr.</cell>
+  <cell>= Theophrastus, iv/B.C.</cell>
+ </row>
+ <row>
+  <cell>Thuc.</cell>
+  <cell>= Thucydides, v/B.C.</cell>
+ </row>
+ <row>
+  <cell>Xen.</cell>
+  <cell>= Xenophon, v-iv/B.C.</cell>
+ </row>
+ </table>
+ </p>
+
+
+ <p>
+ <table>
+ <head type="heading2">IV. MODERN WITNESSES.</head>
+ <row>
+ <cell>Abbott, <emph>Essays</emph></cell>
+  <cell>= Essays chiefly on the Original Texts of the Old and New Testaments, by T. K. Abbott. Longmans, 1891.</cell>
+ </row>
+ <row>
+ <cell>Abbott, <emph>JG</emph></cell>
+  <cell>= Johannine Grammar, by E. A. Abbott. London, 1906.</cell>
+ </row>
+ <row>
+ <cell>Abbott, <emph>JV</emph></cell>
+  <cell>= Johannine Vocabulary, by the same. London, 1905.</cell>
+ </row>
+ <row>
+  <cell>AR</cell>
+  <cell>= St. Paul's Epistle to the Ephesians, by J. Armitage Robinson. Second Edition. Macmillan, 1909.</cell>
+ </row>
+ <row>
+  <cell>BDB</cell>
+  <cell>= A Hebrew and English Lexicon of the Old Testament, by Brown, Driver, and Briggs. Oxford, 1906.</cell>
+ </row>
+ <row>
+ <cell>Blass, <emph>Gosp.</emph></cell>
+  <cell>= Philology of the Gospels, by F. Blass. Macmillan, 1898.</cell>
+ </row>
+ <row>
+ <cell>Blass, <emph>Gr.</emph></cell>
+  <cell>= Grammar of N.T. Greek, by F. Blass, tr. by H. St. J. Thackeray. Macmillan, 1898.</cell>
+ </row>
+ <row>
+  <cell>Boisacq</cell>
+  <cell>= Dictionnaire Etymologique de la langue Grecque, par Emile Boisacq. Paris, 1907-1914.</cell>
+ </row>
+ <row>
+  <cell>Burton</cell>
+  <cell>= New Testament Moods and Tenses, by E. de W. Burton. Third Edition. Univ. Chicago, 1898.</cell>
+ </row>
+ <row>
+  <cell>CGT</cell>

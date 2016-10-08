@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="./releases/abbott-smith.xsl"?>
 <TEI xmlns="http://www.crosswire.org/2013/TEIOSIS/namespace"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crosswire.org/2013/TEIOSIS/namespace
@@ -94,7 +94,9 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http:/
 
  <p>The foregoing paragraphs were written early in 1917, when, with the last sheets of the Lexicon, they were sent overseas for publication. The manuscript has thus been inaccessible for revision, whence the absence of any reference to much valuable material that has appeared, both in books and in periodicals, during the last four years, including the second volume of the <emph>Grammar</emph> of Dr. Moulton, whose tragic death as a victim of the ruthless warfare of the submarines was reported a few days after the earlier part of this Preface was written. The student is recommended to supplement the grammatical references in the body of the Lexicon by consulting the Index to Vol. II. of Dr. Moulton's <emph>Grammar</emph>.</p>
 
- <p>I take this opportunity of adding to the acknowledgements already made my thanks to Professors A. R. Gordon and S. B. Slack of McGill University and to the Rev. R. K. Naylor, sometime classical tutor at McGill, for their kindness in proof-reading, to the publishers for their generous enterprise at a time of unprecedented difficulty in the production of books, and to the compositors and readers of the Aberdeen University Press for their painstaking and accurate performance of a difficult task.</p>
+ <p>I take this opportunity of adding to the acknowledgements already made my thanks to Professors A. R. Gordon and S. B. Slack of McGill University and to the Rev. R. K. Naylor, sometime classical s at McGill, for their kindness in proof-reading, to the publishers for their generous enterprise at a time of unprecedented difficulty in the production of books, and to the compositors and readers of the Aberdeen University Press for their painstaking and accurate performance of a difficult task.</p>
+
+ <p>Ippity ippity</p>
 
  <p>I could really go for a pizza right then</p>
  
